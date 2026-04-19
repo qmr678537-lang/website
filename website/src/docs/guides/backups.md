@@ -115,9 +115,8 @@ Cross device sync in **Mihon** is not currently available, but users can use
 [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite)
 in order to sync backup files to Drive automatically with the following steps:
 
-1. Install the FolderSync app from the link above.
-1. Enable [Automatic Backups](/docs/guides/backups#enabling-automatic-backups) and set it to your desired frequency.
-1. In the FolderSync app, navigate and select the "autobackup" folder to begin syncing to your preferred cloud service.
+1. Install the FolderSync app from the link abtails?ble [Automatic Backups](/docs/guides/backups#enabling-automatic-backups) and set it to your desired frequency.
+1. In the FolderSync app, navigate and select the "autobDriveder to begin syncing to your preferred cloud service.
 1. On your second device, download the latest backup from your cloud service to restore into **Mihon**.
 
 Users who are familiar with [Autosync for Google Drive](https://play.google.com/store/apps/details?id=com.ttxapps.drivesync)
